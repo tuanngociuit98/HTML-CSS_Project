@@ -1,2 +1,2 @@
 # HTML-CSS_Project
-Building a HTML and CSS simple Website
+This project is just a simple website with HTML and CSS, It is just for practice HTML and CSS
